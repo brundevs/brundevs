@@ -17,13 +17,13 @@ Minha trajetória em desenvolvimento começou no planejamento industrial, criand
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,react,nextjs&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs&theme=light" alt="TypeScript, JavaScript, Python, React e Next.js" width="260" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Creact%2Cnextjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpython%2Creact%2Cnextjs&theme=light" alt="TypeScript, JavaScript, Python, React e Next.js" width="260" />
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,postgres,redis,git&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,git&theme=light" alt="Node.js, PostgreSQL, Redis e Git" width="208" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cpostgres%2Credis%2Cgit&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs%2Cpostgres%2Credis%2Cgit&theme=light" alt="Node.js, PostgreSQL, Redis e Git" width="208" />
   </picture>
 </p>
 
@@ -35,7 +35,7 @@ Minha trajetória em desenvolvimento começou no planejamento industrial, criand
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-  <img src="./profile/stats-light.svg" alt="Estatísticas públicas de commits, pull requests, issues e estrelas de brundevs" width="495" />
+  <img src="./profile/stats-light.svg" alt="Estatísticas públicas de commits, pull requests, issues e estrelas de brundevs" width="360" />
 </picture>
 
 <sub>Dados públicos do GitHub. Atualização diária.</sub>
@@ -49,3 +49,4 @@ Minha trajetória em desenvolvimento começou no planejamento industrial, criand
 [linkedin.com/in/brunodevs](https://www.linkedin.com/in/brunodevs/)
 
 <!-- Recursos visuais: github.com/tandpfun/skill-icons, github.com/DenverCoder1/readme-typing-svg, shields.io. Estatísticas: github.com/stats-organization/github-readme-stats-action. -->
+
