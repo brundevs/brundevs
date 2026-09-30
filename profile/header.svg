@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+<title id="title">Bruno Bastos | Desenvolvedor Full Stack</title>
+<desc id="desc">Cabeçalho azul com formas geométricas discretas.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#172D50"/></linearGradient><linearGradient id="accent"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect width="1000" height="230" rx="20" fill="url(#bg)"/>
+<path d="M720 0L580 230M820 0L680 230M920 0L780 230M1020 0L880 230" stroke="#60A5FA" stroke-opacity=".09" stroke-width="2"/>
+<circle cx="900" cy="100" r="85" fill="none" stroke="#60A5FA" stroke-opacity=".15"/>
+<circle cx="900" cy="100" r="60" fill="none" stroke="#22D3EE" stroke-opacity=".12"/>
+<rect x="50" y="52" width="52" height="4" rx="2" fill="url(#accent)"/>
+<text x="50" y="114" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="700">Bruno Bastos</text>
+<text x="52" y="156" fill="#93C5FD" font-family="Segoe UI,Arial,sans-serif" font-size="23">Desenvolvedor Full Stack</text>
+<text x="52" y="193" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="16">TypeScript · React · Next.js · Node.js · Python</text>
+<path d="M856 87l-16 16 16 16M929 87l16 16-16 16M907 80l-18 46" fill="none" stroke="#60A5FA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>
+</svg>
